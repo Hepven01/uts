@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(111, 109, 109);
+}
+.img-thumbnail{
+    width: 200px;
+    height: auto;
+}
