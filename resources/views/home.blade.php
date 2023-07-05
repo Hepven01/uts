@@ -31,7 +31,11 @@
                 <h3>Biodata Mahasiswa</h3>
                 <img class="img-thumbnail" src="{{Vite::asset('resources/images/E1.jpg') }}" alt="image">
                 <p class="mt-3">Nama: Steven Hephzibah Olin</p>
+                <p>Institut Teknologi Telkom Surabaya</p>
                 <p>Prodi: Sistem Informasi (2020)</p>
+                <p>Contact: hepven.olin@gmail.com</p>
+                <p>Social Media: hepven01</p>
+                <P>Hobi: Membaca Buku dan bermain game</P>
             </div>
         </div>
     </div>
